@@ -41,3 +41,5 @@ I also added a "Modules" Page where you can enable disable the desired modules a
 Code-modifications:
 To tell ESP to NAT UDP-Traffic in both directions I had to modify ip4.c and ip4napt.c in the LWIP Module.
 I included LWIP Module in the project to have the changes in the project. ESP-IDF v5.2.5 was used for development.
+
+USE THE MAIN BRANCH AS THIS CONTAINS MY VERSION!
