@@ -1,0 +1,6 @@
+source "C:/Espressif/frameworks/esp-idf-v5.2.5/components/bootloader/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.2.5/components/esp_app_format/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.2.5/components/esp_rom/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.2.5/components/esptool_py/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.2.5/components/partition_table/Kconfig.projbuild"
+source "D:/TEMP/ESP32 NAT Router/esp32_nat_router-master_V3_dev_Git/ESP32-NAT-Router-mDNS/main/Kconfig.projbuild"

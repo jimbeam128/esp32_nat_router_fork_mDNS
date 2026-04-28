@@ -1,0 +1,1 @@
+ip4.c and ip4napt.c from ESP-IDF v5.2.5 edited to have UDP-NATing in both directions (AP <-> STA)

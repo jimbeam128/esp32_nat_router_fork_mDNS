@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/TEMP/ESP32 NAT Router/esp32_nat_router-master_V3_dev_Git/ESP32-NAT-Router-mDNS/build/CMakeFiles/bootloader
+D:/TEMP/ESP32 NAT Router/esp32_nat_router-master_V3_dev_Git/ESP32-NAT-Router-mDNS/build/CMakeFiles/bootloader.rule
+D:/TEMP/ESP32 NAT Router/esp32_nat_router-master_V3_dev_Git/ESP32-NAT-Router-mDNS/build/CMakeFiles/bootloader-complete.rule
+D:/TEMP/ESP32 NAT Router/esp32_nat_router-master_V3_dev_Git/ESP32-NAT-Router-mDNS/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/TEMP/ESP32 NAT Router/esp32_nat_router-master_V3_dev_Git/ESP32-NAT-Router-mDNS/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/TEMP/ESP32 NAT Router/esp32_nat_router-master_V3_dev_Git/ESP32-NAT-Router-mDNS/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/TEMP/ESP32 NAT Router/esp32_nat_router-master_V3_dev_Git/ESP32-NAT-Router-mDNS/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/TEMP/ESP32 NAT Router/esp32_nat_router-master_V3_dev_Git/ESP32-NAT-Router-mDNS/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/TEMP/ESP32 NAT Router/esp32_nat_router-master_V3_dev_Git/ESP32-NAT-Router-mDNS/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/TEMP/ESP32 NAT Router/esp32_nat_router-master_V3_dev_Git/ESP32-NAT-Router-mDNS/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
