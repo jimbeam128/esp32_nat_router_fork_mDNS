@@ -27,7 +27,7 @@ In general it should be possible to respond to other mDNS-Queries (from other ve
 
 To get the exact details of mDNS Response it´s necessary to sniff the traffic with wireshark. - Especially for Anker to get the account_id.
 To sniff the communication and get the information you have to bring both devices to AP-Side and sniff with Wireshark UDP 5353.
-I made the TXT keys and values editable, so maybe there is a chance to use it with other devices maybe...
+I made the TXT keys and values editable, so there is a chance to use it with other devices maybe...
 
 Under mappings you can now also choose the AP interface to forward UDP-Traffic:
 <img width="913" height="787" alt="grafik" src="https://github.com/user-attachments/assets/edd98965-7f19-4cd7-878b-63e4be92683a" />
