@@ -22,6 +22,7 @@ and
 <img width="953" height="689" alt="grafik" src="https://github.com/user-attachments/assets/65398224-557b-46e1-ba60-5517a64768a5" />
 
 
+You can react on different query services on each side (AP and STA) if necessary. For example if you have devices from different vendors on each side.
 In general it should be possible to respond to other mDNS-Queries (from other vendors)
 
 To get the exact details of mDNS Response it´s necessary to sniff the traffic with wireshark. - Especially for Anker to get the account_id.
