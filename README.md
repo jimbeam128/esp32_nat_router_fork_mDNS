@@ -48,3 +48,6 @@ To tell ESP to NAT UDP-Traffic in both directions I had to modify ip4.c and ip4n
 I included LWIP Module in the project to have the changes in the project. ESP-IDF v5.2.5 was used for development.
 
 USE THE MAIN BRANCH AS THIS CONTAINS MY VERSION!
+
+In order to save configs you have to enable the module Local Console / CLI because all config changes in the Web UI are made through console commands.
+If you disable it, you are not able to save any config settings.
